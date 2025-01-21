@@ -1,8 +1,5 @@
 ## Welcome to the NOAA 'Omics GitHub Organization
 
-
-**NOAA Resources**
-
 [NOAA 'Omics Homepage](https://oceanexplorer.noaa.gov/technology/omics/noaa-omics.html)  
 
 [NOAA 'Omics Discussion](https://github.com/orgs/NOAA-Omics/discussions)  
